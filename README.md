@@ -26,3 +26,5 @@ After reproducing the repo in your device, to run the code, type `python scan.py
 
 Thanks Adrian Rosebrock for inspiring me!
 
+### Sample
+<img src="https://github.com/parthagar/DocScanner/blob/master/Capture.PNG">
