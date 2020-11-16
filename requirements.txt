@@ -1,4 +1,5 @@
+numpy
+scipy
 opencv
 scikit-image
 imutils
-numpy
